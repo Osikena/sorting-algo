@@ -1,5 +1,5 @@
 
-//Bubble sort
+//Bubble Sort
 function bubbleSort(num){
     for(let i = 0; i < num.length; i++){
         for(let j = 0; j < num.length - i - 1; j++){
